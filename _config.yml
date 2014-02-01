@@ -1,0 +1,6 @@
+name: The Python Tutorial
+markdown: kramdown
+pygments: true
+relative_permalinks: true
+permalink: /:year-:month-:day-:title.html
+baseurl: /the-python-tutorial
