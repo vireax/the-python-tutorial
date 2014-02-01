@@ -131,6 +131,12 @@ aside#sidebar p.repo-owner,
 aside#sidebar p.repo-owner a {
   font-weight: bold;
 }
+aside#sidebar ul {
+	list-style:none;
+	line-height:2em;
+	margin-left:0;
+	padding-left:0;
+}
 
 #downloads {
   margin-bottom: 40px;
