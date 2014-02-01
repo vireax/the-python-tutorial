@@ -5,15 +5,9 @@ title: The Python Tutorial
 
 # The Python Tutorial
 
-I'm translating these tutorial into Khmer language.
-
 Original text: [http://docs.python.org/3/tutorial/index.html](http://docs.python.org/3/tutorial/index.html)
 
-Python is an easy to learn, powerful programming language. It has efficient
-high-level data structures and a simple but effective approach to object-
-oriented programming. Python's elegant syntax and dynamic typing, together
-with its interpreted nature, make it an ideal language for scripting and rapid
-application development in many areas on most platforms.
+Python ជា​ភាសា​កុំព្យូទ័រ​ដែល​ងាយ​ស្រួល​រៀន និង មាន​សមត្ថភាព​ខ្ពស់។ Data structures មាន​​សមត្ថភាព​កំរិត​ខ្ពស់ និង object oriented programming បែប​ងាយ​តែ​បាន​ការ។ មាន​ភាព​ឈ្លាសវៃ​របស់ syntax និង dynamic typing របស់​ Python រួម​បញ្ចូល​ទាំង​ interpreted nature របស់​វា ត្រូវ​បាន​ទទួល​ការ​ពេញ​និយម​សំរាប់ សរសេរ script និង ការ​បង្កើត​កម្មវិធី​បាន​ឆាប់រហ័ស​ក្នុង​វិស័យ​ជា​ច្រើន​ នៅ​លើ​ platform ភាគ​ច្រើន។
 
 The Python interpreter and the extensive standard library are freely available
 in source or binary form for all major platforms from the Python Web site,
