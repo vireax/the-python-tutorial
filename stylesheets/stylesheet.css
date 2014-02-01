@@ -88,7 +88,7 @@ header h2 {
   width: 540px;
   letter-spacing: 0;
 }
-span.site-title{
+span.site-title, span.site-title a{
   font-size: 26px;
   color: #9ddcff;
   font-weight: normal;
