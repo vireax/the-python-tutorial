@@ -47,6 +47,8 @@ write Python modules and programs, and you will be ready to learn more about
 the various Python library modules described in [_The Python Standard
 Library_](../library/index.html#library-index).
 
+## Content
+
 
 * [1. Whetting Your Appetite](ch01.html)
 * [2. Using the Python Interpreter](ch02.html)
@@ -62,3 +64,7 @@ Library_](../library/index.html#library-index).
 * [12. What Now?](ch12.html)
 * [13. Interactive Input Editing and History Substitution](ch13.html)
 * [14. Floating Point Arithmetic: Issues and Limitations](ch14.html)
+
+## About this translation
+
+I speak English and Python not really perfectly. So, I only hope that other people can improve their skill better than mine after reading this book.
