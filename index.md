@@ -46,3 +46,19 @@ language's flavor and style. After reading it, you will be able to read and
 write Python modules and programs, and you will be ready to learn more about
 the various Python library modules described in [_The Python Standard
 Library_](../library/index.html#library-index).
+
+
+* [1. Whetting Your Appetite](ch01.html)
+* [2. Using the Python Interpreter](ch02.html)
+* [3. An Informal Introduction to Python](ch03.html)
+* [4. More Control Flow Tools](ch04.html)
+* [5. Data Structures](ch05.html)
+* [6. Modules](ch06.html)
+* [7. Input and Output](ch07.html)
+* [8. Errors and Exceptions](ch08.html)
+* [9. Classes](ch09.html)
+* [10. Brief Tour of the Standard Library](ch10.html)
+* [11. Brief Tour of the Standard Library - Part II](ch11.html)
+* [12. What Now?](ch12.html)
+* [13. Interactive Input Editing and History Substitution](ch13.html)
+* [14. Floating Point Arithmetic: Issues and Limitations](ch14.html)
