@@ -1,13 +1,3 @@
-### Navigation
-
-  * [index](../genindex.html)
-  * [modules](../py-modindex.html) |
-  * [next](appetite.html) |
-  * [previous](../whatsnew/changelog.html) |
-  * ![](../_static/py.png)
-  * [Python](http://www.python.org/) »
-  * 3.3.3 [Documentation](../index.html) »
-
 # The Python Tutorial¶
 
 Python is an easy to learn, powerful programming language. It has efficient
@@ -170,32 +160,6 @@ The [_Glossary_](../glossary.html#glossary) is also worth going through.
   * [14. Floating Point Arithmetic: Issues and Limitations](floatingpoint.html)
     * [14.1. Representation Error](floatingpoint.html#representation-error)
 
-#### Previous topic
-
-[Changelog](../whatsnew/changelog.html)
-
-#### Next topic
-
-[1. Whetting Your Appetite](appetite.html)
-
-### This Page
-
-  * [Report a Bug](../bugs.html)
-  * [Show Source](../_sources/tutorial/index.txt)
-
-### Quick search
-
-Enter search terms or a module, class or function name.
-
-### Navigation
-
-  * [index](../genindex.html)
-  * [modules](../py-modindex.html) |
-  * [next](appetite.html) |
-  * [previous](../whatsnew/changelog.html) |
-  * ![](../_static/py.png)
-  * [Python](http://www.python.org/) »
-  * 3.3.3 [Documentation](../index.html) »
 
 (C) [Copyright](../copyright.html) 1990-2014, Python Software Foundation.
 
